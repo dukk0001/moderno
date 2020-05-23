@@ -1,0 +1,20 @@
+html{
+box-sizing: border-box;
+}
+*,::before,
+*::after{
+
+
+}
+body{
+    background-color: rgb(110, 177, 194);
+}
+.box{
+   display: flex;
+   margin: 0 auto;
+ 
+}
+h1{
+    margin: 0 auto;
+    margin-top: 20%;
+}
